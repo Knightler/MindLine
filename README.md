@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="extension/icon.png" alt="MindLine Logo" width="256" />
+</p>
+
 # 🧠 Mindline – Your Textbook, Now Interactive
 
 Mindline is a Chrome extension that turns static PDFs into interactive, AI-powered textbooks.
