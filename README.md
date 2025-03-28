@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="extension/icon.png" alt="MindLine Logo" width="256" />
+  <img src="extension/icon.png" alt="MindLine Logo" width="512" />
 </p>
 
 # 🧠 Mindline – Your Textbook, Now Interactive
